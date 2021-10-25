@@ -1,0 +1,1 @@
+export const PROJECT1_EXPORT = "PROJECT1_EXPORT";
